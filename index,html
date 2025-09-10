@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Gazers of Stars and Lines</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gazers of Stars and Lines</h1>
+        <p>Welcome to the official interactive Gazers universe!</p>
+    </header>
+
+    <main>
+        <ul class="menu">
+            <li><a href="main-story.html">📖 Main Story Mode</a></li>
+            <li><a href="galaxy-map.html">🌌 Explore the Galaxy Mode</a></li>
+            <li><a href="by-category.html">🗂 Read by Category Mode</a></li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>© 2025 Ivan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+Add homepage
